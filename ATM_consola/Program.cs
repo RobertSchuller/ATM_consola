@@ -70,7 +70,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to ATM                  ║");
+            Console.WriteLine("║               Welcome to ATM               ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║               CREATE ACCOUNT               ║");
@@ -106,7 +106,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to ATM                  ║");
+            Console.WriteLine("║               Welcome to ATM               ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║                CHANGE PIN                  ║");
@@ -135,7 +135,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to ATM                  ║");
+            Console.WriteLine("║               Welcome to ATM               ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║               CHECK BALANCE                ║");
@@ -148,7 +148,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to ATM                  ║");
+            Console.WriteLine("║               Welcome to ATM               ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║   1.  10$  ║                 ║   2.  20$   ║");
@@ -222,7 +222,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to ATM                  ║");
+            Console.WriteLine("║               Welcome to ATM               ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║   1.  10$  ║                 ║   2.  20$   ║");
@@ -280,7 +280,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to ATM                  ║");
+            Console.WriteLine("║               Welcome to ATM               ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║              AUTHENTIFICATION              ║");
