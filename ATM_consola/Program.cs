@@ -97,7 +97,7 @@ namespace FirstATM
                 pincheck = Console.ReadLine();
             }
             if (pin == pincheck)
-                Console.WriteLine("     **** WELCOME TO THE ROMAN BANK ****");
+                Console.WriteLine("     **** WELCOME TO ATM ****");
             PIN = pin;
             Console.ReadKey();
         }
@@ -135,7 +135,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to Roman ATM            ║");
+            Console.WriteLine("║            Welcome to ATM                  ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║               CHECK BALANCE                ║");
@@ -148,7 +148,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to Roman ATM            ║");
+            Console.WriteLine("║            Welcome to ATM                  ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║   1.  10$  ║                 ║   2.  20$   ║");
@@ -222,7 +222,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to Roman ATM            ║");
+            Console.WriteLine("║            Welcome to ATM                  ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║   1.  10$  ║                 ║   2.  20$   ║");
@@ -280,7 +280,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to Roman ATM            ║");
+            Console.WriteLine("║            Welcome to ATM                  ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║              AUTHENTIFICATION              ║");
