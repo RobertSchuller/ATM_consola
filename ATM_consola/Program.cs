@@ -106,7 +106,7 @@ namespace FirstATM
             Console.Clear();
             Console.WriteLine("╔════════════════════════════════════════════╗");
             Console.WriteLine("║                                            ║");
-            Console.WriteLine("║            Welcome to Roman ATM            ║");
+            Console.WriteLine("║            Welcome to ATM                  ║");
             Console.WriteLine("║                                            ║");
             Console.WriteLine("╠════════════════════════════════════════════╣");
             Console.WriteLine("║                CHANGE PIN                  ║");
